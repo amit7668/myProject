@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508716002690",
+    "firebase_url": "https://hey-buddy-7668.firebaseio.com",
+    "project_id": "hey-buddy-7668",
+    "storage_bucket": "hey-buddy-7668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508716002690:android:941f074f39622c1321f39b",
+        "android_client_info": {
+          "package_name": "com.amit.heybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508716002690-0u9s3bqjqevaicd3fh41al8ac80mgk8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkRq538oW-rm2lD37QYxoDU6l-Tetzk0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508716002690-0u9s3bqjqevaicd3fh41al8ac80mgk8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
